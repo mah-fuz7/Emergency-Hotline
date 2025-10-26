@@ -1,12 +1,5 @@
 @import "tailwindcss"
+
 border-2 border-blue-400
 
-   bg-[rgb(245,255,246)]
-
-
-<div class="mainbox grid grid-cols-4 gap-x-5 border-2 border-green-400 mx-15  
- ">
-
-   <div class="card col-span-3  grid grid-cols-3 gap-2 px-8 py-8   ">
-
-     <div class="historybox border-2 border-blue-400  col-span-1  ">
+ 
