@@ -29,7 +29,7 @@ console.log(call_coin.innerText)
 //  call alert ,cut coin , insufficient Blance
 
 if(call_coin<=0){
-    alert(`Insufficient coins. Please top up to continue.`)
+    alert(`❌Insufficient coins. Please top up to continue.`)
 }else{
     alert(`
     ${serviceName} 
