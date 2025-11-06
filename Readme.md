@@ -9,7 +9,7 @@
 2. How do you **create and insert a new element into the DOM**?
 
 const newDiv=document.createElement("div");
-newDiv.innerHtml="<h1>Hellow World"</h1>
+newDiv.innerHtml="<h1>"Hellow World"</h1>
 const mainDiv=document.getElementById("main-div");
 mainDiv.append(newDiv)
 
