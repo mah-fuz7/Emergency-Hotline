@@ -19,11 +19,15 @@ const mainDiv=document.getElementById("main-div");
 mainDiv.append(newDiv)
 
 3. What is **Event Bubbling** and how does it work?
-Event Bubbling is a process where event start from click element and go to the parent element by bubling.
+
+=>Event Bubbling is a process where event start from click element and go to the parent element by bubling.
 
 4. What is **Event Delegation** in JavaScript? Why is it useful?
-Event Delegation is a process where add Event Listener in the parent and event bubbles to it child so that no need to add multiple Event Listener.
+
+=>Event Delegation is a process where add Event Listener in the parent and event bubbles to it child so that no need to add multiple Event Listener.
 
 5. What is the difference between **preventDefault() and stopPropagation()** methods?
+
 => preventDefault():stops default browser action
+
 =>stopPropagaion():stops event bubling to parent element
